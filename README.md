@@ -6,4 +6,6 @@ Thus a distributed, diff-able, mergable, machine readable social network based o
 
 `liber` means book in latin.
 
-BSD licence 2017-12-27
+BSD license
+
+2017-12-27
